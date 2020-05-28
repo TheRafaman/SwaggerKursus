@@ -1,0 +1,2 @@
+# SwaggerKursus
+Dokumentation af OpenApi
